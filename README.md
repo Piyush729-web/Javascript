@@ -1,2 +1,2 @@
-# project
+# JavaScript 
 new project in javascript
